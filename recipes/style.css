@@ -1,0 +1,6 @@
+h1{background-color: coral;color:rgb(154, 255, 30);
+}
+
+h2,h3{background-color: chartreuse;padding: 5px 2.5px;}
+
+.dish{color:blue; font-weight:bolder;}
